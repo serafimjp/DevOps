@@ -1,0 +1,13 @@
+4523 - DevOps Essentials
+
+Aula 01.0 - Apresentação
+Aula 01.1 - O que é DevOps?
+Aula 01.2 - História do DevOps
+Aula 01.3 - Importância do DevOps
+Aula 01.4 - Correlacionar Metodologias Ágeis com DevOps
+
+Revisão
+>
+
+Teste de Conhecimento - Aula 01
+>

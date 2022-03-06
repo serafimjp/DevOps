@@ -1,0 +1,11 @@
+4523 - DevOps Essentials
+
+Aula 04.1 - O que é uma Pipeline?
+Aula 04.2 - Explorar uma Pipeline?
+Aula 04.3 - CI/CD
+
+Revisão
+>
+
+Teste de Conhecimento - Aula 04
+>

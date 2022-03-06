@@ -1,0 +1,9 @@
+4523 - DevOps Essentials
+
+Aula 07.1 - Conhecer as plataformas
+Aula 07.2 - Comandos Básicos do GIT
+Aula 07.3 - Criar uma Pipeline DevOps
+Aula 07.4 - Entrega do Produto Final
+
+Revisão
+>

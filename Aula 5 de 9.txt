@@ -1,0 +1,10 @@
+4523 - DevOps Essentials
+
+Aula 05.1 - O que é Git Ops?
+Aula 05.2 - Quais os benefícios e porque eu preciso aprender Git Ops?
+
+Revisão
+>
+
+Teste de Conhecimento - Aula 05
+>
