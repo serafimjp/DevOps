@@ -7,7 +7,19 @@ Aula 01.3 - Importância do DevOps
 Aula 01.4 - Correlacionar Metodologias Ágeis com DevOps
 
 Revisão
->
+
+DevOps Não é ferramenta, DevOps é Cultura.
+
+Os quatro eixos do movimento DevOps: Cultura, Automação, Medição e Compartilhamento
+
+3 benefícios na adoção do DevOps:
+
+- Melhorar a frequência dos deploys,
+- Padronização nos processos de configuração e Servidores,
+- Melhor comunicação e maior colaboração entre as áreas de desenvolvimento e infraestrutura
+
+Agile é um processo de desenvolvimento de software que foca em pequenos entregáveis e um processo cíclico onde sempre teremos melhorias.
 
 Teste de Conhecimento - Aula 01
->
+
+10,00 de um máximo de 10,00(100%)
