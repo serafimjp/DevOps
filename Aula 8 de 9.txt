@@ -5,4 +5,5 @@ Aula 8.2 - Próximos passos para trabalhar com Cloud
 Aula 8.3 - Próximos passos para trabalhar On Premises
 
 Revisão
->
+
+Ansible, Zabbix.
