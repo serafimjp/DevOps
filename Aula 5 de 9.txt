@@ -4,7 +4,17 @@ Aula 05.1 - O que é Git Ops?
 Aula 05.2 - Quais os benefícios e porque eu preciso aprender Git Ops?
 
 Revisão
->
+
+GitOps é uma maneira de implementar DevOps com automação através do git server.
+
+3 benefícios na adoção do GitOps:
+
+- Experiência de desenvolvedor aprimorada
+- Aumento de Produtividade
+- Maior Confiabilidade
+
+ChatOps é a junção das tarefas de Automação e Colaboração. É delegar responsabilidade de tarefas e ações para um robô interno que também faz parte da organização e está escutando as conversas.
 
 Teste de Conhecimento - Aula 05
->
+
+10,00 de um máximo de 10,00(100%)
