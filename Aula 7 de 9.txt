@@ -6,4 +6,75 @@ Aula 07.3 - Criar uma Pipeline DevOps
 Aula 07.4 - Entrega do Produto Final
 
 Revisão
->
+
+Github
+Plataforma para guardar nosso código e executar todo o processo de CI/CD de forma automática.
+
+Code Anywhere
+Cloud IDE para escrever nosso código e enviar para o github.
+
+Heroku
+Heroku é um PaaS (Plataforma como Serviço) para publicar aplicações na cloud.
+
+-- Git
+
+Primeiros comandos Git:
+
+Veriﬁcar se temos o binário do git instalado na máquina:
+git --version
+
+Criar um diretório para trabalharmos com o git:
+mkdir estudo-git
+
+Acessar a pasta criada:
+cd estudo-git
+
+Inicializar o novo repositório:
+git init
+
+Uma vez criado o novo repositório, conﬁgurar nome e email padrão:
+git config --global user.name "Seu Nome/Usuário"
+git config --global user.email "seuemail@seudominio.com.br"
+
+Iniciar o versionamento do diretório:
+touch arquivo1
+
+Criando 20 ou mais arquivos arquivos dentro do mesmo repositório:
+touch app{1..20}.log
+
+Adicionar o arquivo para a área de staging:
+git add arquivo1
+
+Adicionar vários arquivos para a área de staging:
+git add --all
+
+Visualizar o estado atual do repositório:
+git status
+
+Gravar a nova versão do repositório:
+git commit -m "Meu primeiro commit"
+
+Podemos veriﬁcar o histórico do nosso repositório através do comando:
+git log
+
+-- GitHub
+
+Configuração rápida - se você já fez esse tipo de coisa antes
+
+git@github.com:serafimjp/test.git
+
+…ou crie um novo repositório na linha de comando
+
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:serafimjp/test.git
+git push -u origin main
+
+…ou envie um repositório existente a partir da linha de comando
+
+git remote add origin git@github.com:serafimjp/test.git
+git branch -M main
+git push -u origin main
