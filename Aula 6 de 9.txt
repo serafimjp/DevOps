@@ -4,7 +4,13 @@ Aula 06.1 - Relação DevOps e Open Source
 Aula 06.2 - Principais ferramentas DevOps
 
 Revisão
->
+
+O maior benefício de se utilizar OpenSource é evitar o **Aprisionamento tecnológico**. O aprisionamento tecnológico acontece quando você fica preso a um determinado fabricante, que o torna extremamente dependente e impede de trocar de fornecedor.
+
+Uma das chaves do desenvolvimento de software Open-source é a colaboração e a transparência.
+
+Não precisamos investir muito dinheiro para ter ferramentas DevOps em nossa infraestrutura.
 
 Teste de Conhecimento - Aula 06
->
+
+10,00 de um máximo de 10,00(100%)
