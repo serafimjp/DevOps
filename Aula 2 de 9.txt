@@ -6,7 +6,18 @@ Aula 02.3 - Por onde devo começar?
 Aula 02.4 - Cloud & On Premises
 
 Revisão
->
+
+Qual o Significado de OKR?
+Objectives, Key Results
+
+DevOps é possivel de ser aplicado tanto em Cloud quanto em ambientes On-Premises.
+
+Alguns dos termos que precisamos aprender para nos tornar um profissional DevOps:
+
+- Versionar arquivos com GIT
+- Compartilhamento
+- Servidores
 
 Teste de Conhecimento - Aula 02
->
+
+10,00 de um máximo de 10,00(100%)
