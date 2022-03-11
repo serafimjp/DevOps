@@ -4,4 +4,22 @@ Aula 03.1 - Inteirar-se sobre o Mercado DevOps
 Aula 03.2 - Explorar as Certificações
 
 Revisão
->
+
+No geral, o proﬁssional DevOps é aquele proﬁssional que conhece e pratica a Cultura DevOps,
+que Automatiza sempre que possível, que Mede os Resultados e que Compartilha o Feedback
+(CAMS - Culture, Automation, Measurement, Sharing).
+
+Certiﬁcações Técnicas e não Técnicas.
+
+-- Técnicas
+
+LPI DevOps Tools Engineer (LPIC-OT)
+Docker Certiﬁed Associate (Docker DCA)
+Kubernetes Certiﬁed Administrator (CKA)
+Kubernetes Certiﬁed Application Developer (CKAD)
+Certiﬁcações Cloud
+
+-- Não Técnicas
+
+Exin DevOps
+Exin Agile Scrum
